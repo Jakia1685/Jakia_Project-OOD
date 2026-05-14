@@ -51,14 +51,19 @@ Java-based railway booking and management system.
 Implementation of FCFS, SJF, SRTF, RR & Priority Scheduling.
 
 
-📈 GitHub Stats
+📈 GitHub Stats:
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jakia1685&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakia1685&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jakia1685&show_icons=true&theme=radical" />
+</p>
+
+💻 Most Used Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakia1685&layout=compact&theme=radical" />
 </p>
 
 
-🌐 Connect With Me
+🌐 Connect With Me:
 📧 Email: jakiasultana1238@gmail.com
 
 <div align="center">
